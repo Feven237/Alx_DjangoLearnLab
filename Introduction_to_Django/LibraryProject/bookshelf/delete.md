@@ -1,1 +1,1 @@
-ECHO is on.
+ ["book.delete", "from bookshelf.models import Book"]
