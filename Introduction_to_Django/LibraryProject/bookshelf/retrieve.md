@@ -1,1 +1,1 @@
-ECHO is on.
+["Book.objects.get", "1984"]
